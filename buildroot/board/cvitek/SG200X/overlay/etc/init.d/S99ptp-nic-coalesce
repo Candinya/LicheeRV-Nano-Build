@@ -1,0 +1,3 @@
+#!/bin/sh
+
+/usr/sbin/ethtool -C eth0 tx-usecs 0 rx-usecs 0

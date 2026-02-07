@@ -1,0 +1,1 @@
+PHC2SYS_ARGS="-s CLOCK_REALTIME -c eth0 -O 0 --step_threshold=0.5"
